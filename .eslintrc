@@ -3,5 +3,6 @@
   "rules": {
     "comma-dangle": ["error", "always-multiline"],
     "no-undef": "off",
+    "no-prototype-builtins": "off"
   }
 }
