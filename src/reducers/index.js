@@ -16,14 +16,9 @@ const rootReducer = combineReducers({
   playersById: players,
   heroesById: heroes,
   weaponsById: weapons,
-<<<<<<< HEAD
   minionsById: minions,
   secretsById: secrets,
-=======
-  minions,
-  secretsById: secrets,
   effectsById: effects,
->>>>>>> upstream/master
 });
 
 module.exports = rootReducer;
